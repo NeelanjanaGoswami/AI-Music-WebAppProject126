@@ -24,3 +24,8 @@ canvas{
     box-shadow:white;
     padding: 10px;
 }
+
+.play_button {
+    font-size:23px;
+    
+}
